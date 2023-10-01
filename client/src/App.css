@@ -1,0 +1,44 @@
+
+.loginForm{
+    margin:70px 0px;
+    width: 50%;
+    margin-left:350px
+    
+}
+.register{
+    margin:70px 0px;
+    width: 50%;
+    margin-left:350px
+}
+.reglog{
+    display: flex;
+    margin-left: 200px;
+    padding: 5px;
+    
+}
+.addCategory{
+    margin:70px 0px;
+    width: 50%;
+    margin-left:350px 
+}
+.addBlog{
+    margin:70px 0px;
+    width: 90%;
+    margin-left:350px
+}
+.btn{
+    margin-top: 20px;
+}
+.lgoutbtn{
+    width: 65px;
+    height: 32px;
+    margin: 3px;
+}
+.home{
+
+    padding: 30px 30px;
+    display: flex;
+  justify-content:space-evenly; 
+  flex-wrap: wrap; 
+  gap: 10px;
+}
